@@ -20,3 +20,10 @@
 .active {
   background-color: rgb(27, 144, 36);
 }
+
+@media screen and (max-width: 576px){
+  .custom-font {
+    font-family: 'Mulish', sans-serif;
+    font-size: 12px;
+  }
+}
