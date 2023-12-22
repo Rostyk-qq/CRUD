@@ -1,0 +1,22 @@
+.custom-font {
+    font-family: 'Mulish', sans-serif;
+    font-size: 14px;
+}
+.back{
+    background-color: aliceblue;
+}
+.status_circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(152, 154, 152);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0;
+    padding: 7px;
+}
+
+.active {
+  background-color: rgb(27, 144, 36);
+}
